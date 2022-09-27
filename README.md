@@ -15,7 +15,7 @@ There are 3 reasons for occur this case.
 * Length limit = The message is dropped because its queue exceeded a length limit.
 
 <br>
-<img src="https://github.com/melihhtasci/dead-letter-exchange/blob/doc_images/dead-letter-exchange.png?raw=true" alt="image" width="500"/>
+<img src="https://github.com/melihhtasci/dead-letter-exchange/tree/main/doc_images/dead-letter-exchange.png?raw=true" alt="image" width="500"/>
 
 ## Getting Started
 
